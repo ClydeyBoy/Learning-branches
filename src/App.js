@@ -27,7 +27,7 @@ function App() {
   },[count]);
 
   
-  //This useEffect is tiggered when the component mounts
+  //This useEffect is tiggered when the component mounts fdasfda
   useEffect(function () {
     console.log("component rendered for the FIRST TIME ONLY")
   },[]);
